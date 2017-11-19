@@ -1,0 +1,30 @@
+
+*** Downloading color names
+
+Place lists of named colors in list/ in the format
+
+r g b color_name
+
+The names or r,g,b values do not need to be unique
+
+
+
+*** Create single list of all names
+
+./make.db
+
+This will create color.names.txt in the format
+
+r g b color_name
+
+This is the list that will be used to generate the annotated named color file, which contains color space coordinates and list of neighbours.
+
+
+
+*** Create annotated list of all names
+
+This takes a while (5-10 minutes).
+
+cat color.names.rgbonly.txt | ../bin/make.color.name.db > color.names.txt
+
+

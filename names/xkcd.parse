@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat list.toparse/xkcd.txt | sed 's/\#//g' | shrinkwrap | swapcol -r 1 | tr A-Z a-z | perl -ne 'use Math::Round qw(round); my @tok = split(" ",$_); my @rgb = map {round($_)} (unpack "C*", pack "H*", $tok[0]); print join(" ",@rgb,@tok,"\n")' | cut -d " " -f 1,2,3,5-

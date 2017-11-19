@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cat list/*txt | grep -v "beer srm" | grep -v "toast lmu" | sed 's/[0-9]*$//g' | grep ^[0-9] > color.names.rgbonly.txt
+cat list/beer.srm.txt >> color.names.rgbonly.txt
+cat list/hamilton.beach.toast.txt >> color.names.rgbonly.txt
+
+cat color.names.rgbonly.txt | shrinkwrap | ./tidy.names | sed 's/ /_/g' | sort -u | sed 's/_/ /g' | sort -n > tmp.1
+
+\mv tmp.1 color.names.rgbonly.txt
+
+
