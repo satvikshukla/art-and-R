@@ -1,854 +1,1037 @@
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg image size 1140 797 crop 0 1140 0 797 resampled 100 70
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv h avg 224 1.00
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv h median 222
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv h min 0
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv s avg 21
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv s median 20
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv s min 0
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv s max 54
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv v avg 66
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv v median 64
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv v min 9
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat hsv v max 96
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab a avg 1
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab a median 1
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab a min -4
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab a max 41
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab b avg -8
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab b median -10
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab b min -19
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab b max 27
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab l avg 61
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab l median 56
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab l min 7
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lab l max 95
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch c avg 12
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch c median 11
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch c min 0
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch c max 47
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch h avg 279 1.00
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch h median 276
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch h min 1
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch h max 359
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch l avg 61
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch l median 56
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch l min 7
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat lch l max 95
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv l avg 61
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv l median 56
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv l min 7
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv l max 95
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv u avg -4
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv u median -4
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv u min -16
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv u max 78
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv v avg -12
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv v median -15
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv v min -28
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat luv v max 32
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb b avg 164
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb b median 159
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb b min 24
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb b max 246
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb g avg 150
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb g median 135
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb g min 21
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb g max 239
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb r avg 144
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb r median 124
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb r min 20
-E:\google_drive\personal_project\colorsummarizer\img\drawing.jpg stat rgb r max 240
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg image size 500 423 crop 0 500 0 423 resampled 100 85
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv h avg 137 0.00
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv h median 150
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv h min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv s avg 41
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv s median 38
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv s min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv s max 100
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv v avg 24
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv v median 16
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv v min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat hsv v max 100
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab a avg 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab a median -1
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab a min -46
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab a max 63
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab b avg 7
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab b median 1
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab b min -55
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab b max 83
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab l avg 21
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab l median 14
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab l min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lab l max 96
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch c avg 12
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch c median 4
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch c min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch c max 83
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch h avg 160 0.00
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch h median 160
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch h min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch h max 360
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch l avg 21
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch l median 14
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch l min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat lch l max 96
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv l avg 21
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv l median 14
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv l min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv l max 96
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv u avg 4
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv u median -1
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv u min -42
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv u max 125
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv v avg 7
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv v median 1
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv v min -82
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat luv v max 90
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb b avg 41
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb b median 26
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb b min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb b max 226
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb g avg 51
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb g median 33
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb g min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb g max 247
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb r avg 54
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb r median 31
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb r min 0
-E:\google_drive\personal_project\colorsummarizer\img\evangeline.jpg stat rgb r max 255
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg image size 300 300 crop 0 300 0 300 resampled 100 100
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv h avg 278 0.00
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv h median 185
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv h min 0
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv s avg 29
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv s median 20
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv s min 0
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv s max 100
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv v avg 80
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv v median 84
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv v min 40
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat hsv v max 100
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab a avg 14
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab a median 5
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab a min -33
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab a max 65
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab b avg -5
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab b median -4
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab b min -28
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab b max 23
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab l avg 71
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab l median 75
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab l min 23
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lab l max 100
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch c avg 25
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch c median 15
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch c min 0
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch c max 70
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch h avg 301 0.00
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch h median 199
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch h min 0
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch h max 360
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch l avg 71
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch l median 75
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch l min 23
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat lch l max 100
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv l avg 71
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv l median 75
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv l min 23
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv l max 100
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv u avg 17
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv u median 7
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv u min -44
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv u max 109
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv v avg -9
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv v median -4
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv v min -47
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat luv v max 18
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb b avg 183
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb b median 190
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb b min 43
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb b max 255
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb g avg 163
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb g median 183
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb g min 0
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb g max 255
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb r avg 191
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb r median 192
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb r min 0
-E:\google_drive\personal_project\colorsummarizer\img\fabric-2.jpg stat rgb r max 255
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg image size 300 290 crop 0 300 0 290 resampled 100 97
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv h avg 12 1.00
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv h median 25
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv h min 0
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv s avg 46
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv s median 46
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv s min 20
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv s max 80
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv v avg 72
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv v median 71
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv v min 60
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat hsv v max 86
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab a avg 23
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab a median 20
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab a min 0
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab a max 57
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab b avg 20
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab b median 18
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab b min 4
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab b max 45
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab l avg 57
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab l median 57
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab l min 35
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lab l max 80
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch c avg 33
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch c median 31
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch c min 13
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch c max 58
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch h avg 42 1.00
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch h median 47
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch h min 7
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch h max 89
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch l avg 57
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch l median 57
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch l min 35
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat lch l max 80
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv l avg 57
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv l median 57
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv l min 35
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv l max 80
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv u avg 46
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv u median 43
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv u min 15
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv u max 91
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv v avg 20
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv v median 20
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv v min -2
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat luv v max 49
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb b avg 103
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb b median 98
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb b min 58
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb b max 173
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb g avg 119
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb g median 123
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb g min 33
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb g max 195
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb r avg 183
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb r median 182
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb r min 153
-E:\google_drive\personal_project\colorsummarizer\img\fabric-3.jpg stat rgb r max 219
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg image size 250 346 crop 0 250 0 346 resampled 100 138
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv h avg 41 1.00
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv h median 45
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv h min 3
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv s avg 31
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv s median 28
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv s min 1
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv s max 66
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv v avg 75
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv v median 80
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv v min 35
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat hsv v max 91
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab a avg 2
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab a median -2
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab a min -10
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab a max 36
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab b avg 22
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab b median 23
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab b min -4
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab b max 39
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab l avg 71
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab l median 78
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab l min 23
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lab l max 92
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch c avg 24
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch c median 24
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch c min 1
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch c max 44
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch h avg 87 1.00
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch h median 94
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch h min 6
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch h max 266
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch l avg 71
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch l median 78
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch l min 23
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat lch l max 92
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv l avg 71
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv l median 78
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv l min 23
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv l max 92
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv u avg 15
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv u median 11
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv u min -6
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv u max 66
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv v avg 29
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv v median 31
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv v min -5
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat luv v max 47
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb b avg 133
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb b median 151
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb b min 32
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb b max 201
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb g avg 171
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb g median 192
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb g min 40
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb g max 233
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb r avg 190
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb r median 205
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb r min 90
-E:\google_drive\personal_project\colorsummarizer\img\fabric.jpg stat rgb r max 233
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg image size 100 75 crop 0 100 0 75 resampled 100 75
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv h avg 99 1.00
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv h median 99
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv h min 60
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv h max 129
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv s avg 71
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv s median 69
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv s min 32
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv s max 100
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv v avg 61
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv v median 61
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv v min 1
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat hsv v max 100
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab a avg -41
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab a median -41
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab a min -53
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab a max 0
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab b avg 47
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab b median 47
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab b min 1
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab b max 67
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab l avg 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab l median 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab l min 1
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lab l max 94
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch c avg 62
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch c median 62
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch c min 1
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch c max 84
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch h avg 131 1.00
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch h median 131
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch h min 110
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch h max 146
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch l avg 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch l median 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch l min 1
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat lch l max 94
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv l avg 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv l median 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv l min 1
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv l max 94
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv u avg -34
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv u median -34
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv u min -45
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv u max 0
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv v avg 59
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv v median 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv v min 1
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat luv v max 88
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb b avg 49
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb b median 49
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb b min 0
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb b max 148
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb g avg 157
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb g median 155
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb g min 2
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb g max 255
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb r avg 87
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb r median 85
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb r min 0
-E:\google_drive\personal_project\colorsummarizer\img\ferns-100.jpg stat rgb r max 189
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg image size 250 188 crop 0 250 0 188 resampled 100 75
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv h avg 99 1.00
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv h median 99
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv h min 85
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv h max 120
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv s avg 71
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv s median 69
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv s min 43
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv s max 100
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv v avg 61
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv v median 60
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv v min 19
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat hsv v max 91
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab a avg -41
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab a median -42
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab a min -50
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab a max -24
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab b avg 47
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab b median 47
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab b min 23
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab b max 65
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab l avg 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab l median 57
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab l min 17
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lab l max 85
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch c avg 63
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch c median 63
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch c min 34
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch c max 82
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch h avg 131 1.00
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch h median 131
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch h min 123
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch h max 141
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch l avg 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch l median 57
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch l min 17
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat lch l max 85
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv l avg 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv l median 57
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv l min 17
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv l max 85
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv u avg -34
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv u median -34
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv u min -42
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv u max -14
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv v avg 59
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv v median 59
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv v min 20
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat luv v max 82
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb b avg 48
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb b median 48
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb b min 0
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb b max 122
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb g avg 157
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb g median 154
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb g min 49
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb g max 233
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb r avg 86
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb r median 84
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb r min 7
-E:\google_drive\personal_project\colorsummarizer\img\ferns-250.jpg stat rgb r max 158
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg image size 500 375 crop 0 500 0 375 resampled 100 75
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv h avg 99 1.00
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv h median 99
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv h min 84
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv h max 117
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv s avg 71
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv s median 69
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv s min 44
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv s max 100
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv v avg 61
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv v median 60
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv v min 20
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat hsv v max 90
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab a avg -41
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab a median -42
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab a min -50
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab a max -25
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab b avg 47
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab b median 47
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab b min 24
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab b max 65
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab l avg 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab l median 57
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab l min 17
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lab l max 84
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch c avg 63
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch c median 63
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch c min 35
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch c max 82
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch h avg 131 1.00
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch h median 131
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch h min 123
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch h max 140
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch l avg 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch l median 57
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch l min 17
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat lch l max 84
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv l avg 58
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv l median 57
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv l min 17
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv l max 84
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv u avg -34
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv u median -34
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv u min -42
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv u max -15
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv v avg 59
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv v median 59
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv v min 20
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat luv v max 82
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb b avg 48
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb b median 48
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb b min 0
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb b max 120
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb g avg 157
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb g median 154
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb g min 50
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb g max 229
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb r avg 86
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb r median 84
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb r min 7
-E:\google_drive\personal_project\colorsummarizer\img\ferns-500.jpg stat rgb r max 157
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg image size 200 66 crop 0 200 0 66 resampled 100 33
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv h avg 303 0.00
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv h median 240
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv h min 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv s avg 23
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv s median 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv s min 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv s max 100
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv v avg 98
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv v median 100
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv v min 63
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat hsv v max 100
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab a avg 6
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab a median 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab a min -54
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab a max 67
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab b avg 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab b median 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab b min -66
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab b max 82
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab l avg 88
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab l median 100
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab l min 52
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lab l max 100
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch c avg 21
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch c median 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch c min 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch c max 85
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch h avg 320 1.00
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch h median 286
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch h min 3
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch h max 324
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch l avg 88
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch l median 100
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch l min 52
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat lch l max 100
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv l avg 88
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv l median 100
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv l min 52
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv l max 100
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv u avg 8
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv u median 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv u min -50
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv u max 140
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv v avg -6
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv v median 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv v min -105
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat luv v max 82
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb b avg 221
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb b median 255
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb b min 0
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb b max 255
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb g avg 217
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb g median 255
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb g min 52
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb g max 255
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb r avg 221
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb r median 255
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb r min 28
-E:\google_drive\personal_project\colorsummarizer\img\glogo.jpg stat rgb r max 255
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg image size 300 225 crop 0 300 0 225 resampled 100 75
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv h avg 169 0.00
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv h median 179
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv h min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv s avg 71
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv s median 93
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv s min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv s max 100
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv v avg 72
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv v median 99
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv v min 1
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat hsv v max 100
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab a avg 5
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab a median 1
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab a min -86
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab a max 97
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab b avg 3
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab b median 1
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab b min -107
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab b max 93
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab l avg 57
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab l median 61
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab l min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lab l max 100
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch c avg 49
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch c median 45
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch c min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch c max 133
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch h avg 49 0.00
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch h median 162
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch h min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch h max 360
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch l avg 57
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch l median 61
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch l min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat lch l max 100
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv l avg 57
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv l median 61
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv l min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv l max 100
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv u avg 4
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv u median -1
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv u min -83
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv u max 172
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv v avg 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv v median 1
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv v min -134
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat luv v max 107
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb b avg 128
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb b median 130
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb b min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb b max 255
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb g avg 129
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb g median 132
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb g min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb g max 255
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb r avg 126
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb r median 125
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb r min 0
-E:\google_drive\personal_project\colorsummarizer\img\granger.jpg stat rgb r max 255
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg image size 687 1024 crop 0 687 0 1024 resampled 100 149
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv h avg 13 0.00
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv h median 74
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv h min 0
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv s avg 48
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv s median 45
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv s min 5
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv s max 91
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv v avg 36
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv v median 33
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv v min 8
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat hsv v max 95
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab a avg 4
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab a median 8
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab a min -23
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab a max 29
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab b avg 12
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab b median 12
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab b min -19
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab b max 57
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab l avg 31
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab l median 29
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab l min 1
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lab l max 86
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch c avg 22
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch c median 18
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch c min 2
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch c max 57
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch h avg 48 0.00
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch h median 114
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch h min 0
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch h max 360
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch l avg 31
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch l median 29
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch l min 1
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat lch l max 86
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv l avg 31
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv l median 29
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv l min 1
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv l max 86
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv u avg 9
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv u median 4
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv u min -20
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv u max 57
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv v avg 15
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv v median 12
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv v min -15
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat luv v max 67
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb b avg 54
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb b median 47
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb b min 16
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb b max 129
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb g avg 73
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb g median 62
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb g min 2
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb g max 213
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb r avg 86
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb r median 79
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb r min 4
-E:\google_drive\personal_project\colorsummarizer\img\mona lisa;leonardo da vinci;1520.jpg stat rgb r max 242
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg image size 844 1024 crop 0 844 0 1024 resampled 100 121
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv h avg 50 1.00
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv h median 44
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv h min 24
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv h max 90
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv s avg 39
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv s median 40
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv s min 7
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv s max 79
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv v avg 23
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv v median 20
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv v min 6
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat hsv v max 96
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab a avg 1
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab a median 0
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab a min -4
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab a max 26
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab b avg 12
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab b median 11
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab b min 0
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab b max 59
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab l avg 21
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab l median 18
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab l min 4
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lab l max 92
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch c avg 12
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch c median 11
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch c min 1
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch c max 60
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch h avg 95 1.00
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch h median 91
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch h min 58
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch h max 130
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch l avg 21
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch l median 18
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch l min 4
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat lch l max 92
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv l avg 21
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv l median 18
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv l min 4
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv l max 92
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv u avg 7
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv u median 4
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv u min -1
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv u max 63
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv v avg 11
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv v median 10
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv v min 0
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat luv v max 65
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb b avg 32
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb b median 28
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb b min 13
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb b max 196
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb g avg 50
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb g median 44
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb g min 15
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb g max 230
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb r avg 59
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb r median 51
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb r min 15
-E:\google_drive\personal_project\colorsummarizer\img\portrait of a man; frans hals; ba;1335.jpg stat rgb r max 246
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg image size 900 506 crop 0 900 0 506 resampled 100 56
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv h avg 83 1.00
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv h median 72
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv h min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv s avg 23
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv s median 13
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv s min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv s max 100
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv v avg 34
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv v median 31
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv v min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat hsv v max 100
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab a avg -3
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab a median -2
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab a min -58
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab a max 40
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab b avg 7
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab b median 5
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab b min -23
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab b max 56
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab l avg 34
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab l median 32
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab l min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lab l max 100
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch c avg 10
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch c median 6
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch c min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch c max 81
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch h avg 121 1.00
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch h median 117
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch h min 4
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch h max 356
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch l avg 34
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch l median 32
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch l min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat lch l max 100
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv l avg 34
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv l median 32
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv l min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv l max 100
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv u avg 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv u median 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv u min -52
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv u max 73
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv v avg 8
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv v median 5
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv v min -26
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat luv v max 69
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb b avg 70
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb b median 68
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb b min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb b max 255
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb g avg 83
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb g median 77
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb g min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb g max 255
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb r avg 81
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb r median 71
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb r min 0
-E:\google_drive\personal_project\colorsummarizer\img\toy story.jpg stat rgb r max 255
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg image size 500 329 crop 0 500 0 329 resampled 100 66
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv h avg 65 1.00
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv h median 71
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv h min 0
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv h max 360
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv s avg 79
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv s median 82
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv s min 2
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv s max 100
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv v avg 46
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv v median 36
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv v min 1
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat hsv v max 100
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab a avg -10
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab a median -14
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab a min -43
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab a max 70
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab b avg 42
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab b median 39
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab b min -13
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab b max 92
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab l avg 43
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab l median 36
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab l min 0
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lab l max 98
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch c avg 45
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch c median 42
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch c min 0
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch c max 94
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch h avg 106 1.00
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch h median 113
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch h min 22
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch h max 209
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch l avg 43
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch l median 36
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch l min 0
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat lch l max 98
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv l avg 43
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv l median 36
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv l min 0
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv l max 98
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv u avg 4
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv u median -4
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv u min -42
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv u max 147
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv v avg 42
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv v median 38
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv v min -16
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat luv v max 105
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb b avg 22
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb b median 15
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb b min 0
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb b max 171
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb g avg 105
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb g median 91
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb g min 0
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb g max 255
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb r avg 105
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb r median 76
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb r min 0
-E:\google_drive\personal_project\colorsummarizer\img\tucan.jpg stat rgb r max 255
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg image size 589 745 crop 0 589 0 745 resampled 100 126
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv h avg 31 1.00
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv h median 33
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv s avg 41
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv s median 32
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv s max 93
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv v avg 36
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv v median 36
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv v min 2
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat hsv v max 84
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab a avg 9
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab a median 2
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab a min -9
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab a max 36
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab b avg 11
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab b median 10
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab b min -1
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab b max 31
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab l avg 30
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab l median 22
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab l min 1
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lab l max 82
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch c avg 16
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch c median 11
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch c max 47
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch h avg 72 1.00
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch h median 79
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch h min 5
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch l avg 30
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch l median 22
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch l min 1
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat lch l max 82
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv l avg 30
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv l median 22
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv l min 1
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv l max 82
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv u avg 16
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv u median 8
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv u min -2
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv u max 61
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv v avg 10
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv v median 12
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv v min 0
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat luv v max 25
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb b avg 56
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb b median 21
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb b min 1
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb b max 189
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb g avg 67
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb g median 32
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb g min 3
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb g max 203
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb r avg 91
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb r median 91
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb r min 6
+E:\google_drive\personal_project\images-art\Jab van Eyck;Portrait of Margaret van Eyck;1439.jpg stat rgb r max 213
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg image size 657 899 crop 0 657 0 899 resampled 100 137
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv h avg 1 0.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv h median 120
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv s avg 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv s median 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv s max 98
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv v avg 25
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv v median 22
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv v min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat hsv v max 85
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab a avg 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab a median 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab a min -26
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab a max 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab b avg 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab b median 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab b min -33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab b max 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab l avg 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab l median 18
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lab l max 86
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch c avg 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch c median 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch c max 47
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch h avg 27 0.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch h median 122
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch l avg 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch l median 18
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat lch l max 86
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv l avg 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv l median 18
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv l max 86
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv u avg 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv u median 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv u min -21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv u max 68
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv v avg 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv v median 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv v min -50
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat luv v max 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb b avg 43
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb b median 39
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb b min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb b max 209
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb g avg 50
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb g median 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb g min 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb g max 216
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb r avg 58
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb r median 48
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb r min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Arnolfini Portrait;1434.jpg stat rgb r max 218
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg image size 656 900 crop 0 656 0 900 resampled 100 137
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv h avg 2 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv h median 17
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv s avg 46
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv s median 45
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv s max 79
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv v avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv v median 29
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv v min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat hsv v max 85
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab a avg 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab a median 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab a min -6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab a max 46
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab b avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab b median 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab b min -15
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab b max 31
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab l avg 23
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab l median 22
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lab l max 84
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch c avg 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch c median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch c max 55
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch h avg 28 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch h median 34
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch l avg 23
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch l median 22
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat lch l max 84
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv l avg 23
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv l median 22
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv l max 84
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv u avg 24
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv u median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv u min -5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv u max 88
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv v avg 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv v median 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv v min -15
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat luv v max 31
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb b avg 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb b median 39
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb b min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb b max 199
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb g avg 46
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb g median 43
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb g min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb g max 209
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb r avg 83
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb r median 73
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb r min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Ince Hall Madonna;1433.jpg stat rgb r max 217
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg image size 507 900 crop 0 507 0 900 resampled 100 178
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv h avg 41 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv h median 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv s avg 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv s median 48
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv s max 84
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv v avg 36
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv v median 25
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv v min 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat hsv v max 97
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab a avg 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab a median 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab a min -11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab a max 50
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab b avg 17
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab b median 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab b min -2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab b max 57
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab l avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab l median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab l min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lab l max 83
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch c avg 22
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch c median 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch c max 61
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch h avg 81 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch h median 79
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch h min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch h max 351
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch l avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch l median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch l min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat lch l max 83
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv l avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv l median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv l min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv l max 83
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv u avg 22
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv u median 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv u min -4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv u max 94
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv v avg 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv v median 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv v min -2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat luv v max 66
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb b avg 41
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb b median 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb b min 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb b max 112
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb g avg 61
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb g median 45
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb g min 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb g max 202
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb r avg 91
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb r median 62
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb r min 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Léal Souvenir;1432.jpg stat rgb r max 247
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg image size 685 900 crop 0 685 0 900 resampled 100 131
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv h avg 24 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv h median 27
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv s avg 65
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv s median 68
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv s max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv v avg 23
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv v median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv v min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat hsv v max 73
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab a avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab a median 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab a min -4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab a max 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab b avg 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab b median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab b min -1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab b max 37
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab l avg 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab l median 15
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab l min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lab l max 64
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch c avg 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch c median 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch c max 55
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch h avg 59 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch h median 61
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch h max 344
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch l avg 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch l median 15
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch l min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat lch l max 64
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv l avg 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv l median 15
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv l min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv l max 64
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv u avg 17
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv u median 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv u min -2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv u max 76
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv v avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv v median 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv v min -1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat luv v max 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb b avg 18
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb b median 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb b min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb b max 104
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb g avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb g median 25
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb g min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb g max 150
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb r avg 59
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb r median 54
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb r min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Lucca Madonna;1436.jpg stat rgb r max 187
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg image size 659 900 crop 0 659 0 900 resampled 100 137
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv h avg 9 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv h median 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv s avg 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv s median 35
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv s min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv s max 78
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv v avg 41
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv v median 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv v min 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat hsv v max 91
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab a avg 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab a median 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab a min -1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab a max 48
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab b avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab b median 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab b min -14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab b max 36
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab l avg 34
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab l median 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab l min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lab l max 82
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch c avg 17
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch c median 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch c max 60
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch h avg 37 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch h median 45
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch l avg 34
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch l median 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch l min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat lch l max 82
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv l avg 34
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv l median 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv l min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv l max 82
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv u avg 20
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv u median 17
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv u min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv u max 93
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv v avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv v median 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv v min -18
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat luv v max 41
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb b avg 65
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb b median 56
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb b min 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb b max 174
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb g avg 73
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb g median 67
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb g min 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb g max 198
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb r avg 104
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb r median 103
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb r min 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna at the Fountain;1439.jpg stat rgb r max 232
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg image size 433 900 crop 0 433 0 900 resampled 100 208
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv h avg 21 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv h median 30
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv s avg 47
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv s median 51
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv s max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv v avg 29
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv v median 29
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv v min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat hsv v max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab a avg 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab a median 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab a min -8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab a max 48
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab b avg 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab b median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab b min -10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab b max 49
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab l avg 25
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab l median 23
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab l min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lab l max 98
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch c avg 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch c median 15
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch c max 63
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch h avg 56 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch h median 68
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch l avg 25
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch l median 23
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch l min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat lch l max 98
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv l avg 25
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv l median 23
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv l min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv l max 98
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv u avg 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv u median 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv u min -12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv u max 90
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv v avg 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv v median 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv v min -8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat luv v max 50
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb b avg 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb b median 26
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb b min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb b max 205
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb g avg 55
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb g median 49
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb g min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb g max 253
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb r avg 74
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb r median 74
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb r min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna in the Church;1440.jpg stat rgb r max 255
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg image size 695 734 crop 0 695 0 734 resampled 100 106
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv h avg 349 0.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv h median 75
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv s avg 34
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv s median 31.5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv s max 81
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv v avg 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv v median 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv v min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat hsv v max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab a avg 7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab a median 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab a min -15
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab a max 45
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab b avg 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab b median 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab b min -27
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab b max 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab l avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab l median 27
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lab l max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch c avg 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch c median 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch c max 57
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch h avg 19 0.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch h median 101
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch l avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch l median 27
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat lch l max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv l avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv l median 27
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv l max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv u avg 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv u median 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv u min -7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv u max 86
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv v avg 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv v median 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv v min -43
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat luv v max 52
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb b avg 70
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb b median 54
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb b min 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb b max 255
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb g avg 75
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb g median 53
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb g min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb g max 255
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb r avg 92
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb r median 82
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb r min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Chancellor Rolin;1435.jpg stat rgb r max 255
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg image size 1178 900 crop 0 1178 0 900 resampled 100 76
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv h avg 32 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv h median 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv s avg 41
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv s median 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv s max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv v avg 32
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv v median 24
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv v min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat hsv v max 97
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab a avg 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab a median 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab a min -7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab a max 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab b avg 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab b median 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab b min -8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab b max 41
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab l avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab l median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lab l max 95
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch c avg 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch c median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch c max 50
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch h avg 74 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch h median 86
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch h max 358
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch l avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch l median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat lch l max 95
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv l avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv l median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv l max 95
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv u avg 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv u median 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv u min -1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv u max 62
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv v avg 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv v median 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv v min -7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat luv v max 46
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb b avg 49
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb b median 29
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb b min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb b max 212
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb g avg 67
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb g median 44
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb g min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb g max 239
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb r avg 80
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb r median 62
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb r min 7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Madonna of Jan Vos;1441.jpg stat rgb r max 248
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg image size 600 901 crop 0 600 0 901 resampled 100 150
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv h avg 8 0.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv h median 26
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv s avg 55
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv s median 50
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv s max 97
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv v avg 25
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv v median 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv v min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat hsv v max 80
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab a avg 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab a median 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab a min -7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab a max 26
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab b avg 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab b median 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab b min -29
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab b max 37
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab l avg 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab l median 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lab l max 68
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch c avg 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch c median 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch c max 41
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch h avg 26 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch h median 54
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch h max 359
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch l avg 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch l median 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat lch l max 68
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv l avg 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv l median 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv l max 68
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv u avg 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv u median 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv u min -17
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv u max 47
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv v avg 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv v median 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv v min -40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat luv v max 37
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb b avg 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb b median 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb b min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb b max 152
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb g avg 43
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb g median 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb g min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb g max 157
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb r avg 53
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb r median 41
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb r min 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with a Blue Chaperon;1430.jpg stat rgb r max 205
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg image size 628 901 crop 0 628 0 901 resampled 100 143
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv h avg 34 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv h median 36
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv s avg 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv s median 37
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv s max 85
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv v avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv v median 32
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv v min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat hsv v max 86
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab a avg 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab a median 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab a min -7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab a max 44
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab b avg 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab b median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab b min -3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab b max 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab l avg 29
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab l median 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lab l max 77
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch c avg 15
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch c median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch c max 59
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch h avg 76 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch h median 81
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch h min 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch h max 324
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch l avg 29
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch l median 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat lch l max 77
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv l avg 29
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv l median 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv l max 77
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv u avg 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv u median 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv u min -3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv u max 85
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv v avg 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv v median 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv v min -2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat luv v max 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb b avg 48
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb b median 37
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb b min 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb b max 171
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb g avg 66
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb g median 63
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb g min 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb g max 186
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb r avg 84
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb r median 82
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb r min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of a Man with Carnation;1436.jpg stat rgb r max 220
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg image size 760 1023 crop 0 760 0 1023 resampled 100 135
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv h avg 359 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv h median 346
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv s avg 46
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv s median 48
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv s min 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv s max 73
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv v avg 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv v median 15
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv v min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat hsv v max 83
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab a avg 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab a median 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab a min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab a max 32
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab b avg 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab b median 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab b min -2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab b max 32
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab l avg 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab l median 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lab l max 63
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch c avg 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch c median 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch c min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch c max 44
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch h avg 19 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch h median 20
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch l avg 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch l median 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat lch l max 63
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv l avg 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv l median 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv l max 63
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv u avg 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv u median 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv u min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv u max 66
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv v avg 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv v median 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv v min -2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat luv v max 34
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb b avg 26
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb b median 22
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb b min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb b max 103
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb g avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb g median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb g min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb g max 137
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb r avg 48
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb r median 37
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb r min 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Baudouin de Lannoy;1435.jpg stat rgb r max 211
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg image size 797 1024 crop 0 797 0 1024 resampled 100 128
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv h avg 33 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv h median 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv s avg 61
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv s median 63
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv s min 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv s max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv v avg 41
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv v median 46
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv v min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat hsv v max 90
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab a avg 18
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab a median 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab a min -7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab a max 50
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab b avg 25
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab b median 34
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab b min -13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab b max 48
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab l avg 30
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab l median 30
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab l min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lab l max 81
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch c avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch c median 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch c min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch c max 66
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch h avg 73 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch h median 73
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch h min 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch h max 291
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch l avg 30
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch l median 30
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch l min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat lch l max 81
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv l avg 30
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv l median 30
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv l min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv l max 81
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv u avg 37
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv u median 37
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv u min -13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv u max 95
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv v avg 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv v median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv v min -16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat luv v max 54
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb b avg 31
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb b median 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb b min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb b max 131
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb g avg 56
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb g median 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb g min 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb g max 198
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb r avg 104
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb r median 117
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb r min 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Cardinal Niccolò Albergati;1431.jpg stat rgb r max 230
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg image size 641 900 crop 0 641 0 900 resampled 100 140
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv h avg 319 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv h median 280
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv s avg 45
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv s median 45
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv s max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv v avg 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv v median 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv v min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat hsv v max 94
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab a avg 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab a median 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab a min -1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab a max 52
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab b avg 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab b median 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab b min -5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab b max 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab l avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab l median 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab l min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lab l max 80
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch c avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch c median 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch c max 61
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch h avg 347 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch h median 290
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch l avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch l median 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch l min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat lch l max 80
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv l avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv l median 3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv l min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv l max 80
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv u avg 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv u median 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv u min -1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv u max 97
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv v avg 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv v median 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv v min -3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat luv v max 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb b avg 20
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb b median 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb b min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb b max 138
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb g avg 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb g median 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb g min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb g max 188
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb r avg 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb r median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb r min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Portrait of Giovanni di Nicolao Arnolfini;1438.jpg stat rgb r max 240
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg image size 670 592 crop 0 670 0 592 resampled 100 88
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv h avg 99 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv h median 90
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv h min 23
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv h max 207
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv s avg 25
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv s median 24
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv s min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv s max 79
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv v avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv v median 27
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv v min 7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat hsv v max 96
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab a avg -4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab a median -5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab a min -11
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab a max 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab b avg 7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab b median 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab b min -20
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab b max 31
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab l avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab l median 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab l min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lab l max 94
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch c avg 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch c median 9
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch c max 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch h avg 133 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch h median 128
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch h min 58
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch h max 251
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch l avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch l median 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch l min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat lch l max 94
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv l avg 33
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv l median 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv l min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv l max 94
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv u avg -1
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv u median -3
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv u min -22
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv u max 32
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv v avg 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv v median 7
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv v min -30
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat luv v max 34
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb b avg 69
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb b median 53
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb b min 18
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb b max 244
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb g avg 81
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb g median 66
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb g min 19
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb g max 240
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb r avg 76
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb r median 66
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb r min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;Saint Francis Receiving the Stigmata;1432.jpg stat rgb r max 234
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg image size 341 899 crop 0 341 0 899 resampled 100 264
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv h avg 11 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv h median 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv s avg 43
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv s median 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv s max 86
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv v avg 35
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv v median 32
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv v min 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat hsv v max 87
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab a avg 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab a median 7
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab a min -14
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab a max 49
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab b avg 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab b median 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab b min -34
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab b max 42
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab l avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab l median 27
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lab l max 87
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch c avg 16
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch c median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch c max 62
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch h avg 39 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch h median 59
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch l avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch l median 27
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat lch l max 87
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv l avg 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv l median 27
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv l min 1
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv l max 87
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv u avg 12
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv u median 10
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv u min -24
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv u max 98
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv v avg 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv v median 7
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv v min -49
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat luv v max 54
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb b avg 59
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb b median 53
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb b min 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb b max 206
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb g avg 63
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb g median 59
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb g min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb g max 218
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb r avg 80
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb r median 72
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb r min 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Annunciation;1434.jpg stat rgb r max 221
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg image size 605 460 crop 0 605 0 460 resampled 100 76
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv h avg 348 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv h median 312
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv s avg 41
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv s median 40
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv s min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv s max 84
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv v avg 32
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv v median 28
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv v min 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat hsv v max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab a avg 14
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab a median 11
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab a min -1
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab a max 64
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab b avg 7
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab b median 4
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab b min -29
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab b max 46
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab l avg 24
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab l median 20
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lab l max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch c avg 18
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch c median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch c min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch c max 78
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch h avg 11 1.00
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch h median 38
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch h min 0
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch h max 360
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch l avg 24
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch l median 20
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat lch l max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv l avg 24
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv l median 20
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv l min 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv l max 100
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv u avg 21
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv u median 13
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv u min -4
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv u max 130
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv v avg 5
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv v median 2
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv v min -38
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat luv v max 51
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb b avg 49
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb b median 39
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb b min 6
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb b max 252
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb g avg 49
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb g median 36
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb g min 8
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb g max 254
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb r avg 81
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb r median 68
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb r min 7
+E:\google_drive\personal_project\images-art\Jan van Eyck;The Virgin and Child with Canon van der Paele;1436.jpg stat rgb r max 255

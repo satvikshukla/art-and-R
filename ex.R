@@ -26,19 +26,22 @@ for (i in 1:length(col)) {
 	str <- col[i]
     j <- (i - 1) %% 61
     if (j == 0) {
-    	col[i] <- str_extract(str, "([a-z]|[A-Z]|[0-9]| )*;")
-    	v <- c(v, col[i])
+    	col[i] <- str_extract(str, "([a-z]|[A-Z]|[0-9]| |\\p{L})*;")
+    	str.to.add <- gsub(";", "", col[i])
+    	v <- c(v, str.to.add)
     }
     if (j == 0) {
-    	col[i] <- str_extract(str, ";([a-z]|[A-Z]| )*")
-    	v <- c(v, col[i])
+    	col[i] <- str_extract(str, ";([a-z]|[A-Z]| |\\p{L})*")
+    	str.to.add <- gsub(";", "", col[i])
+    	v <- c(v, str.to.add)
     }
     if (j == 0) {
         col[i] <- str_extract(str, ";[0-9]+")
-    	v <- c(v, col[i])
+    	str.to.add <- gsub(";", "", col[i])
+    	v <- c(v, str.to.add)
     }
     else if (j == 1) {
-    	col[i] <- str_extract(col[i], " [0-9]{2,} ")
+    	col[i] <- str_extract(col[i], " [0-9]* ")
     	v <- c(v, col[i])
     }
     else if (j == 60) {
