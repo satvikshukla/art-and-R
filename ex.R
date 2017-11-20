@@ -4,7 +4,7 @@ library(stringr)
 stat <- read.csv("stats.csv", stringsAsFactors = FALSE, header = FALSE)
 col <- stat[, 1]
 df <- data.frame(matrix(ncol = 63, nrow = 0))
-df.colnames <-  c("art", "artist", "year",
+df.colnames <-  c("artist", "art", "year",
                   "hsv.h.avg", "hsv.h.median", "hsv.h.min", "hsv.h.max", 
                   "hsv.s.avg", "hsv.s.median", "hsv.s.min", "hsv.s.max", 
                   "hsv.v.avg", "hsv.v.median", "hsv.v.min", "hsv.v.max", 
