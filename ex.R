@@ -31,7 +31,7 @@ for (i in 1:length(col)) {
 		v <- c(v, str.to.add)
 	}
 	if (j == 0) {
-		col[i] <- str_extract(str, ";([a-z]|[A-Z]|[0-9]| |'|\\p{L})*")
+		col[i] <- str_extract(str, ";([a-z]|[A-Z]|[0-9]| |'|(|)|\\p{L})*")
 		str.to.add <- gsub(";", "", col[i])
 		v <- c(v, str.to.add)
 	}
