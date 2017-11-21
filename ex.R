@@ -1,8 +1,9 @@
-library(dplyr)
-library(stringr)
+library("dplyr")
+library("stringr")
+library("readr")
 
-stat <- read.csv("stats.csv", stringsAsFactors = FALSE, header = FALSE)
-col <- stat[, 1]
+stat <- read_csv("stats.csv", col_names = c("X1"))
+col <- stat$X1
 df <- data.frame(matrix(ncol = 63, nrow = 0))
 df.colnames <-  c("artist", "art", "year",
 				  "hsv.h.avg", "hsv.h.median", "hsv.h.min", "hsv.h.max", 
@@ -23,15 +24,15 @@ df.colnames <-  c("artist", "art", "year",
 colnames(df) <- df.colnames
 v <- vector()
 for (i in 1:length(col)) {
-	str <- col[i]
+	str <- iconv(col[i], to='ASCII//TRANSLIT')
 	j <- (i - 1) %% 61
 	if (j == 0) {
-		col[i] <- str_extract(str, "([a-z]|[A-Z]| |\\p{L})*;")
+		col[i] <- str_extract(str, "([a-z]|[A-Z]| )*;")
 		str.to.add <- gsub(";", "", col[i])
 		v <- c(v, str.to.add)
 	}
 	if (j == 0) {
-		col[i] <- str_extract(str, ";([a-z]|[A-Z]|[0-9]| |'|(|)|\\p{L})*")
+		col[i] <- str_extract(str, ";([a-z]|[A-Z]|[0-9]| |'|. |(|)|)*")
 		str.to.add <- gsub(";", "", col[i])
 		v <- c(v, str.to.add)
 	}
@@ -57,4 +58,4 @@ for (i in 1:length(col)) {
 		v <- c(v, col[i])
 	}
 }
-write.csv(df, "data.csv", row.names = FALSE)
+write_csv(df, "data.csv")
