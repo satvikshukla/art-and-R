@@ -21,7 +21,7 @@ df.colnames <-  c("artist", "art", "year",
 				  "luv.v.avg", "luv.v.median", "luv.v.min", "luv.v.max", 
 				  "rgb.b.avg", "rgb.b.median", "rgb.b.min", "rgb.b.max", 
 				  "rgb.g.avg", "rgb.g.median", "rgb.g.min", "rgb.g.max", 
-				  "rgb.r.avg", "rgb.r.median", "rgb.r.min", "rgb.r.max")
+				  "rgb.r.avg", "rgb.b.median", "rgb.r.min", "rgb.r.max")
 colnames(df) <- df.colnames
 v <- vector()
 for (i in 1:length(col)) {
@@ -62,4 +62,8 @@ for (i in 1:length(col)) {
 df <- cbind(df[,1:3], lapply(df[,4:63], as.numeric))
 df <- df %>% mutate(year = as.numeric(as.character(year))) %>% arrange(year)
 write_csv(df, "data.csv")
-p <- ggplot(df, aes(x = year, y = rgb.r.median)) + geom_point(size = 1)
+p1 <- ggplot(df, aes(x = year, y = rgb.b.median)) + geom_point(size = 1)
+p2 <- ggplot(df, aes(x = year, y = rgb.b.median)) + geom_boxplot(aes(group = year))
+p3 <- ggplot(df, aes(x = year, y = rgb.b.median)) + geom_point(alpha = .1)
+p4 <- ggplot(df, aes(x = year, y = rgb.b.median)) + geom_point(size = 1) + stat_smooth(method = lm)
+p5 <- ggplot(df, aes(x = year, y = rgb.b.median)) + geom_point(size = 1) + stat_smooth(method = loess)
