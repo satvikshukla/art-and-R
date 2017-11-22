@@ -40,7 +40,7 @@ for (i in 1:length(col)) {
 	if (j == 0) {
 		col[i] <- str_extract(str, ";[0-9]+")
 		str.to.add <- gsub(";", "", col[i])
-		v <- c(v, as.numeric(str.to.add))
+		v <- c(v, str.to.add)
 	}
 	else if (j == 1) {
 		col[i] <- str_extract(col[i], " [0-9]* ")
@@ -59,8 +59,7 @@ for (i in 1:length(col)) {
 		v <- c(v, col[i])
 	}
 }
-#write_csv(df, "data.csv")
-#df <- df %>% group_by(year) %>% arrange(year)
-df <- df %>% mutate(year2 = as.numeric(as.character(year))) %>% arrange(year2)
-art.years <- df$year
-p <- ggplot(df, aes(x = year2, y = rgb.r.median)) + geom_point(size = 1)
+df <- cbind(df[,1:3], lapply(df[,4:63], as.numeric))
+df <- df %>% mutate(year = as.numeric(as.character(year))) %>% arrange(year)
+write_csv(df, "data.csv")
+p <- ggplot(df, aes(x = year, y = rgb.r.median)) + geom_point(size = 1)
