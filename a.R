@@ -1,11 +1,10 @@
 library("dplyr")
 library("stringr")
 library("readr")
-library("ggplot2")
 
 stat <- read_csv("stats.csv", col_names = c("X1"))
 col <- stat$X1
-df <- data.frame(matrix(ncol = 63, nrow = 0), stringsAsFactors = FALSE)
+df <- data.frame(matrix(ncol = 63, nrow = 0))
 df.colnames <-  c("artist", "art", "year",
 				  "hsv.h.avg", "hsv.h.median", "hsv.h.min", "hsv.h.max", 
 				  "hsv.s.avg", "hsv.s.median", "hsv.s.min", "hsv.s.max", 
@@ -24,43 +23,50 @@ df.colnames <-  c("artist", "art", "year",
 				  "rgb.r.avg", "rgb.r.median", "rgb.r.min", "rgb.r.max")
 colnames(df) <- df.colnames
 v <- vector()
-for (i in 1:length(col)) {
-	str <- iconv(col[i], to='ASCII//TRANSLIT')
+ToDo <- function(col, i) {
+	str <- iconv(col, to='ASCII//TRANSLIT')
+	#k <- k + 1
+	print(i)
+	#print(k)
+	#print(str)
 	j <- (i - 1) %% 61
+	print(j)
 	if (j == 0) {
-		col[i] <- str_extract(str, "([a-z]|[A-Z]| )*;")
-		str.to.add <- gsub(";", "", col[i])
+		col <- str_extract(str, "([a-z]|[A-Z]| )*;")
+		str.to.add <- gsub(";", "", col)
 		v <- c(v, str.to.add)
 	}
 	if (j == 0) {
-		col[i] <- str_extract(str, ";([a-z]|[A-Z]|[0-9]| |'|. |(|)|)*")
-		str.to.add <- gsub(";", "", col[i])
+		col <- str_extract(str, ";([a-z]|[A-Z]|[0-9]| |'|. |(|)|)*")
+		str.to.add <- gsub(";", "", col)
 		v <- c(v, str.to.add)
 	}
 	if (j == 0) {
-		col[i] <- str_extract(str, ";[0-9]+")
-		str.to.add <- gsub(";", "", col[i])
-		v <- c(v, as.numeric(str.to.add))
+		col <- str_extract(str, ";[0-9]+")
+		str.to.add <- gsub(";", "", col)
+		v <- c(v, str.to.add)
 	}
 	else if (j == 1) {
-		col[i] <- str_extract(col[i], " [0-9]* ")
-		v <- c(v, col[i])
+		col <- str_extract(col[i], " [0-9]* ")
+		v <- c(v, col)
 	}
 	else if (j == 60) {
-		col[i] <- str_extract(col[i], "-?[0-9]*$")
-		v <- c(v, col[i])
+	    print("hi")
+		col <- str_extract(col, "-?[0-9]*$")
+		v <- c(v, col)
+		#View(v)
 		vec.df <- as.data.frame(t(v))
+		#View(vec.df)
 		colnames(vec.df) <- df.colnames
+		print(vec.df)
 		df <- rbind(df, vec.df)
 		v <- vector()
 	}
 	else {
-		col[i] <- str_extract(col[i], "-?[0-9]*$")
-		v <- c(v, col[i])
+		col <- str_extract(col[i], "-?[0-9]*$")
+		v <- c(v, col)
 	}
+	print(v)
 }
-#write_csv(df, "data.csv")
-#df <- df %>% group_by(year) %>% arrange(year)
-df <- df %>% mutate(year2 = as.numeric(as.character(year))) %>% arrange(year2)
-art.years <- df$year
-p <- ggplot(df, aes(x = year2, y = rgb.r.median)) + geom_point(size = 1)
+mapply(ToDo, col, 1:length(col))
+write_csv(df, "data1.csv")
