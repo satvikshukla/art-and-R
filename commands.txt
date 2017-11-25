@@ -1,3 +1,0 @@
-> bin\colorsummarizer.exe -stats -clusters 0
-> bin\colorsummarizer.exe -dir "C:\Documents and Settings\user\Desktop\colorsummarizer-0.77-win\img\*png" -info
-> bin\colorsummarizer -help
