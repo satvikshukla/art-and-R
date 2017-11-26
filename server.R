@@ -1,5 +1,5 @@
 library(shiny)
-library(ggplot2)
+library(plotly)
 
 art.data <- read.csv("data1.csv", stringsAsFactors = FALSE)
 
@@ -15,8 +15,7 @@ shinyServer(function(input, output) {
 		print(max(art.data$year))
 		print(min(art.data[[col.str]]))
 		print(max(art.data[[col.str]]))
-		p <- ggplot(art.data, aes(x = year, y = art.data[[col.str]])) + geom_point(size = 1) + stat_smooth(method = loess, level = 0.99)
-		q <- plot(x = art.data$year, y = art.data[[col.str]], xlim = c(0, 100))
-		ggplotly(p)
+		p <- ggplot(art.data, aes(x = year, y = art.data[[col.str]], text = paste0(artist, "<br>", art))) + geom_point(size = 1) + stat_smooth(method = loess, se = FALSE)
+		ggplotly(p , tooltip = "text")
   })
 })
