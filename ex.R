@@ -3,7 +3,7 @@ library("stringr")
 library("readr")
 library("ggplot2")
 
-stat <- read_csv("stats.csv", col_names = c("X1"))
+stat <- read_csv("stats1.csv", col_names = c("X1"))
 col <- stat$X1
 df <- data.frame(matrix(ncol = 63, nrow = 0), stringsAsFactors = FALSE)
 df.colnames <-  c("artist", "art", "year",
@@ -21,7 +21,7 @@ df.colnames <-  c("artist", "art", "year",
 				  "luv.v.avg", "luv.v.median", "luv.v.min", "luv.v.max", 
 				  "rgb.b.avg", "rgb.b.median", "rgb.b.min", "rgb.b.max", 
 				  "rgb.g.avg", "rgb.g.median", "rgb.g.min", "rgb.g.max", 
-				  "rgb.r.avg", "rgb.b.median", "rgb.r.min", "rgb.r.max")
+				  "rgb.r.avg", "rgb.r.median", "rgb.r.min", "rgb.r.max")
 colnames(df) <- df.colnames
 v <- vector()
 for (i in 1:length(col)) {
@@ -59,9 +59,11 @@ for (i in 1:length(col)) {
 		v <- c(v, col[i])
 	}
 }
-df <- cbind(df[,1:2], lapply(df[,4:63], as.numeric))
+df <- cbind(df[,1:3], lapply(df[,4:63], as.numeric))
 df <- df %>% mutate(year = as.numeric(as.character(year))) %>% arrange(year)
-write_csv(df, "data.csv")
+temp <- complete.cases(df[,df.colnames])
+df <- df[temp, ]
+write_csv(df, "data1.csv")
 p1 <- ggplot(df, aes(x = year, y = rgb.b.median)) + geom_point(size = 1)
 p2 <- ggplot(df, aes(x = year, y = rgb.b.median)) + geom_boxplot(aes(group = year))
 p3 <- ggplot(df, aes(x = year, y = rgb.b.median)) + geom_point(alpha = .1)

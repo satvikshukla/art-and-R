@@ -1,0 +1,12 @@
+name: art-and-R
+title: art-and-R
+username:
+account: satvikshukla
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 240102
+bundleId: 1096655
+url: https://satvikshukla.shinyapps.io/art-and-R/
+when: 1511673892.52916
+asMultiple: FALSE
+asStatic: FALSE
