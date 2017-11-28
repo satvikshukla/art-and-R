@@ -3,7 +3,7 @@ library(broom)
 library(dplyr)
 library(highcharter)
 
-art.data <- read.csv(file = "data1.csv", stringsAsFactors = FALSE)
+art.data <<- read.csv(file = "data1.csv", stringsAsFactors = FALSE)
 
 shinyServer(function(input, output) {
 
