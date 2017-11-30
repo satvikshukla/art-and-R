@@ -1,5 +1,5 @@
 library(shiny)
-library(highcharter)
+library(plotly)
 
 shinyUI(fluidPage(
 
@@ -8,7 +8,7 @@ shinyUI(fluidPage(
 	sidebarLayout(
 		sidebarPanel(
 	  		selectInput(
-				"colspa", "Color space", choices = list("RGB" = "rgb", "HSV" = "hsv", "LAB" = "lab", "LCH" = "lch", "LUV" = "luv"), selected = 1
+				"colspa", "Color space", choices = list("RGB" = "rgb", "HSV" = "hsv", "LAB" = "lab", "LCH" = "lch"), selected = 1
 	  		),
 
 	  		conditionalPanel(
@@ -21,7 +21,7 @@ shinyUI(fluidPage(
 		),
 
 		mainPanel(
-	  		highchartOutput("distPlot", height = "500px")
+	  		plotlyOutput("distPlot")
 		)
   	)
 ))
