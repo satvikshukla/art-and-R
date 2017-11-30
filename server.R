@@ -16,19 +16,22 @@ shinyServer(function(input, output, session) {
 		return(paste0(input$colchoice, ".median"))
 	})
 
-	calculate <- eventReactive(input$btn, {
+	calculate <- eventReactive(input$btn1, {
 		if(input$colspa == "hsv") {
 			updateSelectInput(session, "colchoice", choices = list("Hue" = "h", "Saturation" = "s", "Value" = "v"))
 		}
+		else if(input$colspa == "rgb") {
+			updateSelectInput(session, "colchoice", choices = list("Red" = "r", "Green" = "g", "Blue" = "b"))
+		}
+	})
+
+	calculate1 <- eventReactive(input$btn2, {
 		getResults1()
 		getResults2()
 		str1 <<- paste0(getResults1(), getResults2())
 		print(str1)
 		modlss <- loess(art.data[[str1]] ~ year, data = art.data)
 		fit <- augment(modlss) %>% arrange(year)
-		
-		#head(data)
-		#head(fit)
 		
 		hc <- highchart() %>% 
 			hc_add_series(art.data, "scatter", hcaes(x = year, y = art.data[[str1]])) %>% 
@@ -44,5 +47,6 @@ shinyServer(function(input, output, session) {
 
 	output$distPlot <- renderHighchart({
 		calculate()
+		calculate1()
 	})
 })
