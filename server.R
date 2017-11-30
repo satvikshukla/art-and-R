@@ -6,29 +6,19 @@ library(highcharter)
 art.data <<- read.csv(file = "data1.csv", stringsAsFactors = FALSE)
 
 shinyServer(function(input, output, session) {
-	str2 <<- ""
-	str3 <<- ""
-	getResults1 <<- reactive({
-		return(paste0(input$colspa, "."))
-	})
 
-	getResults2 <<- reactive({
-		return(paste0(input$colchoice, ".median"))
-	})
-
-	calculate <- eventReactive(input$btn1, {
-		if(input$colspa == "hsv") {
-			updateSelectInput(session, "colchoice", choices = list("Hue" = "h", "Saturation" = "s", "Value" = "v"))
+	observeEvent(input$colspa, {
+		if(input$colspa == "rgb") {
+			myChoices <- c("Red" = "r", "Green" = "g", "Blue" = "b")
 		}
-		else if(input$colspa == "rgb") {
-			updateSelectInput(session, "colchoice", choices = list("Red" = "r", "Green" = "g", "Blue" = "b"))
+		else if (input$colspa == "hsv") {
+			myChoices <- c("Hue" = "h", "Saturation" = "s", "Value" = "v")
 		}
+		updateSelectInput(session, "colchoice", choices = myChoices)
 	})
 
-	calculate1 <- eventReactive(input$btn2, {
-		getResults1()
-		getResults2()
-		str1 <<- paste0(getResults1(), getResults2())
+	calculate <- eventReactive(input$btn, {
+		str1 <<- paste0(input$colspa, ".", input$colchoice, ".median")
 		print(str1)
 		modlss <- loess(art.data[[str1]] ~ year, data = art.data)
 		fit <- augment(modlss) %>% arrange(year)
@@ -47,6 +37,5 @@ shinyServer(function(input, output, session) {
 
 	output$distPlot <- renderHighchart({
 		calculate()
-		calculate1()
 	})
 })
