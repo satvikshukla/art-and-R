@@ -14,6 +14,12 @@ shinyServer(function(input, output, session) {
 		else if (input$colspa == "hsv") {
 			myChoices <- c("Hue" = "h", "Saturation" = "s", "Value" = "v")
 		}
+		else if (input$colspa == "lab") {
+			myChoices <- c("Luminance" = "l", "Red-Green" = "a", "Yellow-Blue" = "b")
+		}
+		else {
+			myChoices <- c("Lightness" = "l", "Chroma" = "c", "Hue" = "h")
+		}
 		updateSelectInput(session, "colchoice", choices = myChoices)
 	})
 
