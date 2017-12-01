@@ -21,7 +21,7 @@ shinyUI(fluidPage(
 		),
 
 		mainPanel(
-	  		highchartOutput("distPlot", height = "500px")
+	  		highchartOutput("distPlot", height = "550px")
 		)
   	)
 ))

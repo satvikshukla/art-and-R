@@ -3,7 +3,7 @@ library(broom)
 library(dplyr)
 library(highcharter)
 
-art.data <<- read.csv(file = "data1.csv", stringsAsFactors = FALSE)
+art.data <<- read.csv(file = "data.csv", stringsAsFactors = FALSE)
 
 shinyServer(function(input, output, session) {
 
@@ -25,7 +25,6 @@ shinyServer(function(input, output, session) {
 
 	calculate <- eventReactive(input$btn, {
 		str1 <<- paste0(input$colspa, ".", input$colchoice, ".median")
-		print(str1)
 		modlss <- loess(art.data[[str1]] ~ year, data = art.data)
 		fit <- augment(modlss) %>% arrange(year)
 		

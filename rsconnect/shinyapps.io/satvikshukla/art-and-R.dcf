@@ -5,9 +5,9 @@ account: satvikshukla
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 240908
-bundleId: 1105539
+bundleId: 1107490
 url: https://satvikshukla.shinyapps.io/art-and-R/
-when: 1512011324.24897
+when: 1512087862.63187
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: temp/.Rhistory|temp/server.R|temp/ui.R
+ignoredFiles: .RData|ex.R|LICENSE|README.md|stats.csv|.vscode/settings.json
