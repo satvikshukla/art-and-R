@@ -1,10 +1,9 @@
 library("dplyr")
 library("stringr")
-library("readr")
 
-stat <- read_csv("stats.csv", col_names = c("X1"))
-col <- stat$X1
-df <- data.frame(matrix(, ncol = 51, nrow = 0), stringsAsFactors = FALSE)
+stat <- read_csv("stats.csv", stringsAsFactors = FALSE)
+col <- stat[[1]]
+df <- data.frame(matrix(ncol = 51, nrow = 0))
 df.colnames <-  c("artist", "art", "year",
 				  "hsv.h.avg", "hsv.h.median", "hsv.h.min", "hsv.h.max", 
 				  "hsv.s.avg", "hsv.s.median", "hsv.s.min", "hsv.s.max", 
@@ -55,8 +54,8 @@ for (i in 1:length(col)) {
 		v <- c(v, col[i])
 	}
 }
-df <- cbind(df[,1:3], lapply(df[,4:51], as.numeric))
-df <- df %>% mutate(year = as.numeric(as.character(year))) %>% arrange(year)
+# df <- cbind(df[,1:3], lapply(df[,4:51], as.numeric))
+# df <- df %>% mutate(year = as.numeric(as.character(year))) %>% arrange(year)
 temp <- complete.cases(df[,df.colnames])
 df <- df[temp, ]
-write_csv(df, "data.csv")
+write.csv(df, "data.csv", row.names = FALSE)
