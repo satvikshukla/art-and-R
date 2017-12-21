@@ -1,7 +1,7 @@
 library("dplyr")
 library("stringr")
 
-stat <- read_csv("stats.csv", stringsAsFactors = FALSE)
+stat <- read.csv("stats.csv", stringsAsFactors = FALSE)
 col <- stat[[1]]
 df <- data.frame(matrix(ncol = 51, nrow = 0))
 df.colnames <-  c("artist", "art", "year",
@@ -37,12 +37,12 @@ for (i in 1:length(col)) {
 		str.to.add <- gsub(";", "", col[i])
 		v <- c(v, str.to.add)
 	}
-	else if (j == 1) {
-		col[i] <- str_extract(col[i], " [0-9]* ")
+	if (j == 0) {
+		col[i] <- str_extract(str, " [0-9]* ")
 		v <- c(v, col[i])
 	}
 	else if (j == 48) {
-		col[i] <- str_extract(col[i], "-?[0-9]*$")
+		col[i] <- str_extract(str, "-?[0-9]*$")
 		v <- c(v, col[i])
 		vec.df <- as.data.frame(t(v))
 		colnames(vec.df) <- df.colnames
@@ -50,12 +50,11 @@ for (i in 1:length(col)) {
 		v <- vector()
 	}
 	else {
-		col[i] <- str_extract(col[i], "-?[0-9]*$")
+		col[i] <- str_extract(str, "-?[0-9]*$")
 		v <- c(v, col[i])
 	}
 }
-# df <- cbind(df[,1:3], lapply(df[,4:51], as.numeric))
-# df <- df %>% mutate(year = as.numeric(as.character(year))) %>% arrange(year)
 temp <- complete.cases(df[,df.colnames])
 df <- df[temp, ]
+df <- df[,1:51]
 write.csv(df, "data.csv", row.names = FALSE)
